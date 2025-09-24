@@ -21,15 +21,6 @@ This is a complete full-stack application built for a software developer assessm
 * **Comprehensive API**: Endpoints for managing transactions, checking status, and handling third-party webhooks.
 * **Cloud Deployment**: Backend and frontend are independently deployed on Render and Vercel.
 
----
-
-## 📸 Screenshots
-
-**Dashboard (Light Mode)**
-<img width="1919" height="939" alt="Image" src="https://github.com/user-attachments/assets/b2427874-d7f2-425e-9d15-e520c16b46d3" />
-
-**Dashboard (Dark Mode)**
-<img width="1913" height="943" alt="Image" src="https://github.com/user-attachments/assets/57ad8366-9519-4dfa-b327-d12cc788cbe5" />
 
 ---
 
@@ -75,7 +66,7 @@ npm install
 # Run the server
 npm run dev
 ```
-The backend API will be running on `http://localhost:8000`.
+
 
 ### 2. Frontend Setup
 
@@ -91,4 +82,3 @@ npm install
 # Run the server
 npm run dev
 ```
-The frontend application will be running on `http://localhost:5173`.
